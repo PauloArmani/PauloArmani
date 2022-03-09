@@ -1,0 +1,14 @@
+/**  numButton.addEventListener('click', function(event) {
+    console.log(event.target);
+}) */
+
+/**
+ * **** multiplos listeners para multiplos elementos ****
+ * var elems = [view1,view2,button1];
+ * var events = ['touch','singletap','myownevent'];
+ * for (var i=0;i <= elems.length; i++) {
+ *  for (var ev=0; ev < events.length; ev++ ) {
+ *    elems[i].addEventListener(events[ev],callbackfunction);
+ *  }
+ * } 
+ */
